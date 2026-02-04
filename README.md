@@ -1,6 +1,6 @@
 # Python MCP Server Starter
 
-A minimal [mcp-use](https://mcp-use.com) Python server template.
+A minimal [mcp-use](https://manufact.com) Python server template.
 
 ## Quick Start
 
